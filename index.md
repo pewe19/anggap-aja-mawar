@@ -2,7 +2,7 @@
 layout: base
 ---
 
-#Anggap Saja Mawar
+# Anggap Saja Mawar
 
 kalau kamu menganggap dia melati itu salah besar
 
