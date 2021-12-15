@@ -1,6 +1,4 @@
----
-layout: base
----
+
 
 # Anggap Saja Mawar
 
